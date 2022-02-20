@@ -2,12 +2,13 @@ h1 {
     display: block;
     font-size: 2em;
     font-weight: bold;
+
 }
 * {
     box-sizing: border-box;
 }
 body {
-    background: #f4f4f4;
+    background: #E3FDFD;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
